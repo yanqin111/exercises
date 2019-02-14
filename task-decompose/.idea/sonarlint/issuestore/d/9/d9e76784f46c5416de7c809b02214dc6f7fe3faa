@@ -1,0 +1,44 @@
+
+Vsquid:UnusedPrivateMethodÿ"0Remove this unused private "workerHeart" method.(¹Š“È
+Qsquid:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ø˜äÀÿÿÿÿÿ
+Qsquid:S2864ª"4Iterate over the "entrySet" instead of the "keySet".(Ø˜äÀÿÿÿÿÿ
+Qsquid:S2864¼"4Iterate over the "entrySet" instead of the "keySet".(°®Ä¯ÿÿÿÿÿ
+Qsquid:S2864¢"4Iterate over the "entrySet" instead of the "keySet".(»Éş§ùÿÿÿÿ
+>squid:S2189Y""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+usquid:S2293,"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒ£à¾şÿÿÿÿ
+ysquid:S1450"bRemove the "serverSocketChannel" field and declare it as a local variable in the relevant methods.(öşÚ
+bsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(Å×€—
+gsquid:CommentedOutCodeLineo"<This block of commented-out lines of code should be removed.(§êŠùÿÿÿÿ
+bsquid:CommentedOutCodeLineu"<This block of commented-out lines of code should be removed.(’éº
+P
+squid:S106›"9Replace this use of System.out or System.err by a logger.(Ú‰íŒ
+U
+squid:S106®"9Replace this use of System.out or System.err by a logger.(Èıñâùÿÿÿÿ
+P
+squid:S106¾"9Replace this use of System.out or System.err by a logger.(úïŸ‚
+U
+squid:S106Å"9Replace this use of System.out or System.err by a logger.(ã¶à—şÿÿÿÿ
+U
+squid:S106â"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ
+U
+squid:S106™"9Replace this use of System.out or System.err by a logger.(€Ñ„˜şÿÿÿÿ
+U
+squid:S106½"9Replace this use of System.out or System.err by a logger.(­ÜÆßøÿÿÿÿ
+U
+squid:S106ğ"9Replace this use of System.out or System.err by a logger.(§»’şÿÿÿÿ
+P
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÇÅŞï
+U
+squid:S106«"9Replace this use of System.out or System.err by a logger.(ÎÈ• ıÿÿÿÿ
+P
+squid:S106Æ"9Replace this use of System.out or System.err by a logger.(¶¶–ø
+U
+squid:S106Ô"9Replace this use of System.out or System.err by a logger.(³´Õ–ûÿÿÿÿ
+Osquid:S2589‚"7Remove this expression which always evaluates to "true"(º±ß°
+nsquid:S3776W"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(¤»…©şÿÿÿÿ
+osquid:S3776’"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ëßõ€şÿÿÿÿ
+?squid:S1148~"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148Œ"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148û"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ
+@squid:S1148‰"#Use a logger to log this exception.(Âşÿâûÿÿÿÿ
+@squid:S1148ß"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ

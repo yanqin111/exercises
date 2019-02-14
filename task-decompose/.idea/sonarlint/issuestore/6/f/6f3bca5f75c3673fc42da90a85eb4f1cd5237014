@@ -1,0 +1,10 @@
+
+?squid:S1148\"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S11482"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148w"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+gsquid:CommentedOutCodeLine;"<This block of commented-out lines of code should be removed.(³µŸàûÿÿÿÿ
+N
+squid:S106P"9Replace this use of System.out or System.err by a logger.(‚š‰1
+^squid:S1126ƒ"AReplace this if-then-else statement by a single return statement.(©¬åàûÿÿÿÿ
+Ssquid:S2589k"7Remove this expression which always evaluates to "true"(úùö×üÿÿÿÿ
